@@ -1,3 +1,2 @@
 # Strapi application
-
-A quick description of your strapi application
+Backend of the Dj events app made with Strapi
